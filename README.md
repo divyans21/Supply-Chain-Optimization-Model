@@ -1,1 +1,1 @@
-
+a Linear Programming-based supply chain optimization using Python (PuLP), MATLAB, and Excel, designed to minimize procurement and transport costs and includes analytical reports and visualizations—is available. Several repositories use PuLP for LP modeling, connect or export to Excel, and feature documentation for industrial supply chain scenarios and report generation
